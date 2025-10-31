@@ -1,0 +1,4 @@
+# Copia este archivo y renómbralo a .env localmente
+VITE_SUPABASE_URL=https://cgoonhclarijnpigoamb.supabase.co
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNnb29uaGNsYXJpam5waWdvYW1iIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjEwNTUyNjIsImV4cCI6MjA3NjYzMTI2Mn0.fg0k9toLDBDIZalQbutw5vYv_C19Fpj3BFmlfGLlaM0
+VITE_API_BASE=https://field-system.vercel.app/api
